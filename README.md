@@ -11,7 +11,8 @@
 
 #### Part 1 - Assigning an origin-owner
 1. Assign one person to _fork_ the original repository. This will be the _origin-owner_.
-2. The _origin owner_ should add each of the group-members as a _contributor_ to the project.
+2. The _origin-owner_ should add each of the group-members as a _contributor_ to the project.
+3. Each group-member should then _clone_ the project from their _origin-owner_
 
 
 #### Part 2 - Pushing your first change
@@ -20,8 +21,6 @@
 		1. `git add .`
 		2. `git commit -m 'update message'`
 		3. `git push -u origin master` 
-	
-
 
 
 #### Part 3 - Pulling your first change
@@ -32,4 +31,4 @@
 	4. `git push -u origin master`
 
 #### Part 4 - Edit the `index.html`
-* Edit the `index.html` page to include a link to each of the newly created `profile.html` pages. 
+* Edit the `index.html` page to include a link to each of the newly created `profile.html` pages.
