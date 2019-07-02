@@ -2,10 +2,24 @@ td {
     padding:0 15px 0 15px;
 }
 h1 {
-    COLOR:rgb(179, 255, 0);
+    COLOR:rgb(124, 223, 124);
     font-size: 40px
 }
 h2 {
     COLOR:Green;
     font-size: 35px; 
+}
+h3{
+    color:rgb(124, 223, 124);
+    font-size: 40px;
+}
+h4{
+    color:rgb(131, 235, 131)
+}
+div { 
+    color:rgb(85, 233, 27);
+    font-size: 20px
+}
+body {
+    background-color: black;
 }
