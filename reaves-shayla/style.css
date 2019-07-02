@@ -1,3 +1,10 @@
 td {
-    padding:0 15px 0 15px;
+    color:turquoise;
+     font-size:12px;
 }
+h1, h2, h3, div  {
+    color:turquoise;
+ }
+ body {
+     background-color: black;
+ }
